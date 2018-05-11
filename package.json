@@ -12,7 +12,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.18.13",
-    "run-script-os": "^1.0.3"
+    "browser-sync": "~>2.18.13",
+    "run-script-os": "~>1.0.3"
+  },
+  "dependencies": {
+    "debug": "^3.1.0",
+    "hoek": "^5.0.3",
+    "lodash": "^4.17.10"
   }
 }
